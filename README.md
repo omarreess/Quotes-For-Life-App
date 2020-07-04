@@ -1,6 +1,9 @@
 # Quotes-For-Life-App
 Simple App for Feeding you with Endless Number of Quotes Daily .
-
+ 
+ App Published on Google Play :
+ https://play.google.com/store/apps/details?id=com.omaressam.quotes
+ 
  UI Design Inspiration :
  https://dribbble.com/shots/6297114-Quotes-Selection
 
