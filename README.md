@@ -13,7 +13,7 @@ Simple App for Feeding you with Endless Number of Quotes Daily .
 
 Code Features :
  - Applied The single-responsibility principle  of OOD
- - Screens are Fragments for re-usability and app contains only one activity 
+ - Screens are Fragments for re-usability managed by Navigation graph and app contains only one activity 
  - Build with MVP Design Pattern ( Model–View–Presenter ) By classifying Code into 2 packages (Package By Feature ) UI and Data 
  -  UI Package contains packages of each ui component 
   ( like Home package have Home fragment screen , Home View , Home Contract and Home Presenter )
